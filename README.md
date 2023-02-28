@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Indrojit Mondal
 #### Software Developer
-![Software Developer]
+
 
 Greetings!! I'm Indrojit, a fresh graduate from the University of Barisal with a degree of BSc in Computer Science and Engineering who graduated in 2020.My current interests are in Android development, and I enjoy using Kotlin to create beautiful and performant products with delightful user experiences. I have passed maximum times with competitive programming and developing some projects on Java. Now, I'm seeking a job as an android developer. I refer to myself as a "passionate developer" who loves coding and software engineering. I’ve developed several android projects with kotlin technologies. I’ve beginner-level knowledge of back-end technologies. I’m looking forward to being a full-stack android developer.
 
