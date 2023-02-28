@@ -1,3 +1,5 @@
+![Software Developer](https://www.linkedin.com/in/indrojit-mondal-8a36b315a/)
+
 ### Hi there 👋, my name is Indrojit Mondal
 #### Software Developer
 
