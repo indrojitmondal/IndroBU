@@ -1,4 +1,4 @@
-![Software Developer](https://media.licdn.com/dms/image/D5616AQH2XfML3eTWqw/profile-displaybackgroundimage-shrink_350_1400/0/1677607401127?e=1683158400&v=beta&t=jnMrBdWkZnYkxm5P7Dx3xC1MYRsSq2qhSxiIwgt0Ibc )
+![Software Developer](https://media.licdn.com/dms/image/D5603AQFct-nq0H0-fQ/profile-displayphoto-shrink_400_400/0/1677607211846?e=1683158400&v=beta&t=3-PoTgHjwDtH85lkuS6k_A4sUwaPiKmPY_t0wT0G4mY)
 
 ### Hi there 👋, my name is Indrojit Mondal
 #### Software Developer
