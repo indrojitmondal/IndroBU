@@ -1,14 +1,23 @@
-###### Hi there 👋
+(https://www.linkedin.com/in/indrojit-mondal-8a36b315a/)
+### Hi there 👋, my name is Indrojit Mondal
+#### Software Developer
+![Software Developer](https://www.linkedin.com/in/indrojit-mondal-8a36b315a/)
 
-<!--
-**IndroBU/IndroBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Indrojit Mondal, and I I’ve graduated BSc in Computer Science and Engineering from the University of Barishal in 2020. My current interests are in Android development, and I enjoy using Kotlin to create beautiful and performant products with delightful user experiences. I have passed maximum times with competitive programming and developing some projects on Java. Now, I'm seeking a job as an android developer. I refer to myself as a "passionate developer" who loves coding and software engineering. I’ve developed several android projects with kotlin technologies. I’ve beginner-level knowledge of back-end technologies. I’m looking forward to being a full-stack android developer.
 
-Here are some ideas to get you started:
+Skills: C, C++, Java, Android, HTML, CSS, Java Script, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Android 
+- 👯 I’m looking to collaborate on git hub 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/IndroBU)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/indrojit-mondal-8a36b315a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/indro.cse.bu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/9589256/indrojit-mondal)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/IndroBU)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/IndroBU)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/IndroBU)  
