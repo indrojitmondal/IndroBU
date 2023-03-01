@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Indrojit Mondal
 #### Software Developer
 
-Hi there! I'm Indrojit Mondal, and graduated BSc in Computer Science and Engineering from the University of Barishal in 2020. My current interests are in Android development, and I enjoy using Kotlin to create beautiful and performant products with delightful user experiences. I have passed maximum times with competitive programming and developing some projects on Java. Now, I'm seeking a job as an android developer. I refer to myself as a "passionate developer" who loves coding and software engineering. I’ve developed several android projects with kotlin technologies. I’ve beginner-level knowledge of back-end technologies. I’m looking forward to being a full-stack android developer.
+Hi there! I'm Indrojit Mondal and graduated BSc in Computer Science and Engineering from the University of Barishal in 2020. My current interests are in Software engineering, and Android development and I enjoy using Kotlin to create beautiful and performant products with delightful user experiences. I have passed maximum times with competitive programming and developing some projects on Java. Now, I'm seeking a job as a Software Engineer. I refer to myself as a "passionate developer" who loves coding and software engineering. I’ve developed several android projects in android. I’ve beginner-level knowledge of back-end technologies. I’m looking forward to being a Software Engineer.
 
-Skills: C, C++, Java, Android, HTML, CSS, Java Script, PHP
+Skills: C, C++, Java, Android, HTML, CSS, JavaScript, PHP
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Android 
