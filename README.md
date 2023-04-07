@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Indrojit Mondal
 #### Software Developer
 
-Hi there! I'm Indrojit Mondal and graduated BSc in Computer Science and Engineering from the University of Barishal in 2020. I have passed maximum times with competitive programming and developing some projects on Java. Now, I'm seeking a job as a Software Engineer. I refer to myself as a "passionate programmer" who loves coding and software engineering. 
+I have graduated BSc in Computer Science and Engineering from the University of Barishal in 2020. I have passed maximum times with competitive programming and developing some projects on Java. Now, I'm seeking a job as a Software Engineer. I refer to myself as a "passionate programmer" who loves coding and software engineering. 
 
 Skills: C, C++, Java, Android, HTML, CSS, JavaScript, PHP
 
