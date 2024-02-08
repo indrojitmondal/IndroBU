@@ -5,7 +5,7 @@ I graduated BSc in Computer Science and Engineering from the University of Baris
 Skills: C, C++, Java, Android, HTML, CSS, JavaScript, PHP
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Android 
+- 🌱 I’m currently learning MERN Full Stack Web Development
 - 👯 I’m looking to collaborate on git hub 
 
 
